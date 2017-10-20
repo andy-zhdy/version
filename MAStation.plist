@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.12:60080/update/IPadStation.ipa</string>
+					<string>http://121.40.60.37/update/IPadStation.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.12:60080/update/Icon@2x.png</string>
+					<string>http://121.40.60.37/update/Icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.12:60080/update/Icon.png</string>
+					<string>http://121.40.60.37/update/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
