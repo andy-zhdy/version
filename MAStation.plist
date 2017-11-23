@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>cn.meliora.AllMastation</string>
 				<key>bundle-version</key>
-				<string>2.3.6</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>V2.3.6</string>
+				<string>V2.0.0</string>
 				<key>title</key>
 				<string>Version</string>
 			</dict>
